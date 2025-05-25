@@ -30,7 +30,7 @@ An interactive and insightful **Excel-based dashboard** created to visualize **s
 ---
 
 ## 📷 Dashboard Preview  
-![Secondary Sales Dashboard](./secondary_sales_dashboard.png)
+![Secondary Sales Dashboard](https://github.com/HarshitaCoder-bot/Secondary-sales-analysis-/blob/d0b9ab6994700153a058d088e0d915f3f9ffc9fe/Sales%20Analysis%20Dashboard%20Overview.png)
 
 
 ---
